@@ -14,6 +14,6 @@ build/
 venv/
 ENV/
 env/
-# Mac / Windows
+# Mac/Windows
 .DS_Store
 Thumbs.db
